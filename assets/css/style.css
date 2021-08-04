@@ -77,6 +77,18 @@ p {
     margin-left: 20px;
 }
 
+/* Shifts Search Engine Optimization & Social Media Marketing photo left within the Element */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* Shifts Online Reputation Management Photo right within the Element */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 /* Sets Search Engine Optimization's Box Elements */
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -107,16 +119,9 @@ p {
     color: #ffffff;
 }
 
-/* Shifts Search Engine Optimization & Social Media Marketing photo left within the Element */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-/* Shifts Online Reputation Management Photo right within the Element */
-.float-right {
-    float: right;
-    margin-left: 25px;
+/* Sets a Max height for Search Engine Optimization img */
+.search-engine-optimization img{
+    max-height: 200px;
 }
 
 /* Sets a Max height for Online Reputation Management Image Size */
