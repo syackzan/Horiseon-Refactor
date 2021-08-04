@@ -70,17 +70,7 @@ p {
     background-position: center;
 }
 
-/* Shifts Search Engine Optimization & Social Media Marketing photo left within the Element */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
 
-/* Shifts Online Reputation Management Photo right within the Element */
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 /* Sets the Box containing Search Engine Optimization - Online Reputation Management - Social Media Marketing overall box elements */
 .content {
@@ -117,6 +107,18 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+}
+
+/* Shifts Search Engine Optimization & Social Media Marketing photo left within the Element */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* Shifts Online Reputation Management Photo right within the Element */
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 /* Sets a Max height for Online Reputation Management Image Size */
