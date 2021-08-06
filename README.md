@@ -6,7 +6,7 @@ Updating Starter Code for Horiseon
 Link To Repository: https://github.com/syackzan/Horiseon-Refactor
 Link to Web Application: https://syackzan.github.io/Horiseon-Refactor/
 
-## Your Task
+## Task
 
 **Refactoring** existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology.
 
@@ -68,4 +68,8 @@ THEN I find a concise, descriptive title
 * Repository contains multiple descriptive commit messages.
 
 * Repository contains quality README file with description, screenshot, and link to deployed application.
+
+### Image
+
+<img src=".\assets\images.Seophoto.png" alt="Horiseon Web Photo" />
 
