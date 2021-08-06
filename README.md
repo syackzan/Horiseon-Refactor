@@ -71,5 +71,5 @@ THEN I find a concise, descriptive title
 
 ### Image
 
-<img src=".\assets\images.Seophoto.png" alt="Horiseon Web Photo" />
+<img src=".\assets\images\Seophoto.png" alt="Horiseon Web Photo" />
 
